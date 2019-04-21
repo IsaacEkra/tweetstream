@@ -1,5 +1,5 @@
 class TweetParser(object):
-    """docstring for TweetParser."""
+    #removing creds
 
     def __init__(self):
         self.topics = []
