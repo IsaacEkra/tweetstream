@@ -1,5 +1,4 @@
 class TweetParser(object):
-    #removing creds
 
     def __init__(self):
         self.topics = []
